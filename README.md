@@ -3,7 +3,11 @@
   <a href="./doc/README-CN.md">简体中文</a>
 </p>
 
-This is the repository for the Chatbox Community Edition, open-sourced under the GPLv3 license. For most users, I recommend using the Chatbox Official Edition (closed-source). It's still completely free, easy to install, and supports more of the latest features. You can get it below:
+This is the repository for the Chatbox Community Edition, open-sourced under the GPLv3 license.
+
+[Chatbox is going open-source Again!](https://github.com/chatboxai/chatbox/issues/2266)
+
+We regularly sync code from the pro repo to this repo, and vice versa.
 
 ### Download for Desktop
 
@@ -38,7 +42,7 @@ This is the repository for the Chatbox Community Edition, open-sourced under the
       <a href='https://chatboxai.app/?c=download-mac-aarch'>
         <img src='./doc/statics/mac.png' style="height:24px; width: 24px" />
         <br />
-        <b>M1/M2</b>
+        <b style="white-space: nowrap;">Apple Silicon</b>
       </a>
     </td>
     <td align="center" valign="middle">
@@ -59,7 +63,7 @@ This is the repository for the Chatbox Community Edition, open-sourced under the
 <a href='https://play.google.com/store/apps/details?id=xyz.chatboxapp.chatbox' style='margin-right: 4px'>
 <img src='./doc/statics/google_play.png' style="height:38px;" />
 </a>
-<a href='https://chatboxai.app/zh/install?download=android_apk' style='margin-right: 4px; display: inline-flex; justify-content: center'>
+<a href='https://chatboxai.app/install?download=android_apk' style='margin-right: 4px; display: inline-flex; justify-content: center'>
 <img src='./doc/statics/android.png' style="height:28px; display: inline-block" />
 .APK
 </a>
@@ -99,8 +103,12 @@ For more information: [chatboxai.app](https://chatboxai.app/)
 
 <a href="https://www.producthunt.com/posts/chatbox?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chatbox" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=429547&theme=light" alt="Chatbox - Better&#0032;UI&#0032;&#0038;&#0032;Desktop&#0032;App&#0032;for&#0032;ChatGPT&#0044;&#0032;Claude&#0032;and&#0032;other&#0032;LLMs&#0046; | Product Hunt" style="width: 150px; height: 30px;" width="100" height="40" /></a>
 
-<a href="./doc/statics/demo_desktop_1.jpg"><img src="./doc/statics/demo_desktop_1.jpg" width="400"/></a>
-<a href="./doc/statics/demo_desktop_2.jpg"><img src="./doc/statics/demo_desktop_2.jpg" width="400"/></a>
+<a href="./doc/statics/snapshot_light.png">
+<img src="./doc/statics/snapshot_light.png" width="400"/>
+</a>
+<a href="./doc/statics/snapshot_dark.png">
+<img src="./doc/statics/snapshot_dark.png" width="400"/>
+</a>
 
 <!-- <table>
 <tr>
@@ -175,6 +183,7 @@ For more information: [chatboxai.app](https://chatboxai.app/)
     -   Français (French)
     -   Deutsch (German)
     -   Русский (Russian)
+    -   Español (Spanish)
 
 -   **And More...**  
     :sparkles: Constantly enhancing the experience with new features!
@@ -233,21 +242,13 @@ npm run package
 npm run package:all
 ```
 
-## Buy Me a Coffee
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/benn)
-
-| Paypal                                            | Wechat Pay                                      | Ali Pay                                      |
-| ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
-| [**`Paypal`**](https://www.paypal.me/tobennhuang) | <img src="./doc/statics/wechat_pay.JPG" height="240" /> | <img src="./doc/statics/ali_pay.PNG" height="240" /> |
-
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Bin-Huang/chatbox&type=Date)](https://star-history.com/#Bin-Huang/chatbox&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=chatboxai/chatbox&type=Date)](https://star-history.com/#chatboxai/chatbox&Date)
 
 ## Contact
 
-[Twitter](https://twitter.com/benn_huang) | [Email](mailto:tohuangbin@gmail.com) | [Blog](https://bennhuang.com)
+[Twitter](https://x.com/ChatboxAI_HQ) | [Email](mailto:hi@chatboxai.com)
 
 ## License
 

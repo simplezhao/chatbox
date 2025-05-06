@@ -3,7 +3,11 @@
   <a href="README-CN.md">简体中文</a>
 </p>
 
-这里是 Chatbox 社区版的代码仓库，以 GPLv3 许可证开源。对大多数用户来说，更建议直接使用 Chatbox 官方版（闭源）。它仍然完全免费，安装简单，而且支持更多最新功能。你可以在下面获取：
+这里是 Chatbox 社区版的代码仓库，以 GPLv3 许可证开源。
+
+[Chatbox 再次开源！](https://github.com/chatboxai/chatbox/issues/2266)
+
+我们定期从专业版仓库同步代码到这个仓库，反之亦然。
 
 ### 下载电脑端
 
@@ -38,7 +42,7 @@
       <a href='https://chatboxai.app/?c=download-mac-aarch'>
         <img src='./statics/mac.png' style="height:24px; width: 24px" />
         <br />
-        <b>M1/M2</b>
+        <b style="white-space: nowrap;">Apple Silicon</b>
       </a>
     </td>
     <td align="center" valign="middle">
@@ -144,7 +148,7 @@
     :new_moon: 用户友好的界面，带有夜间模式选项，减少长时间使用时的眼睛疲劳。
 
 -   **团队协作**  
-    :busts_in_silhouette: 轻松协作并在团队中共享 OpenAI API 资源。[了解更多](./team-sharing/README.md)
+    :busts_in_silhouette: 轻松协作并在团队中共享 OpenAI API 资源。[了解更多](../team-sharing/README.md)
 
 -   **跨平台可用性**  
     :computer: 聊天盒已为 Windows、Mac、Linux 用户准备就绪。
@@ -218,18 +222,10 @@ npm run package
 npm run package:all
 ```
 
-## 请我喝咖啡
-
-[!["请我喝咖啡"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/benn)
-
-| Paypal                                            | 微信支付                                        | 支付宝                                      |
-| ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
-| [**`Paypal`**](https://www.paypal.me/tobennhuang) | <img src="./statics/wechat_pay.JPG" height="240" /> | <img src="./statics/ali_pay.PNG" height="240" /> |
-
 ## Star History
 
-[![星星历史图表](https://api.star-history.com/svg?repos=Bin-Huang/chatbox&type=Date)](https://star-history.com/#Bin-Huang/chatbox&Date)
+[![星星历史图表](https://api.star-history.com/svg?repos=chatboxai/chatbox&type=Date)](https://star-history.com/#chatboxai/chatbox&Date)
 
 ## 联系方式
 
-[Twitter](https://twitter.com/benn_huang) | [电子邮件](mailto:tohuangbin@gmail.com) | [博客](https://bennhuang.com)
+[Twitter](https://x.com/ChatboxAI_HQ) | [电子邮件](mailto:hi@chatboxai.com)
